@@ -1,0 +1,10 @@
+phidata
+python-dotenv
+packaging
+pypdf
+fastapi
+uvicorn
+groq
+sqlalchemy
+pgvector
+psycopg2-binary
